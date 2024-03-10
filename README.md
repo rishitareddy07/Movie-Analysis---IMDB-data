@@ -7,7 +7,7 @@ The aim of the project is to analyse the movies data from multiple sources such 
 ER/ Studio
 SQL server Developer Edition
 Microsoft SQL server Management Studio
-Talend Real-Time Data Platform 7.1
+Talend
 Tableau Desktop
 Microsoft PowerBI
 
@@ -42,14 +42,5 @@ When the connections are successful run jobs.
 
 Step 3 : Perform Visualizations in Tableau and PowerBI
 Refer to Tableau workbook for checking visualizations and new use cases will be added soon. Microsoft PowerBI file to be added soon.
-
-## References:
-https://elearning.tableau.com/
-
-https://help.talend.com/reader/KxVIhxtXBBFymmkkWJ~O4Q/8RlpZdAdKhP0IaMHXRV7yw
-
-https://www.talend.com/
-
-https://grouplens.org/datasets/movielens/
 
 
