@@ -40,7 +40,7 @@ stg_ml_tables.sql
 Step 2 : Open Talend and setup your database connections and input file connections
 When the connections are successful run jobs.
 
-Step 3 : Perform Visualizations in Tableau and PowerBI
-Refer to Tableau workbook for checking visualizations and new use cases will be added soon. Microsoft PowerBI file to be added soon.
+Step 3 : Perform Visualizations in Tableau
+Refer to Tableau workbook for checking visualizations.
 
 
